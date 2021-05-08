@@ -1,5 +1,5 @@
 # 2020-US-Presidential-Election-Data-App
 
-![Screenshot](presidential_app.PNG)
+![Screenshot](president_app.PNG)
 
-![](presidential_app_gif.gif)
+![](president_app_gif.gif)
